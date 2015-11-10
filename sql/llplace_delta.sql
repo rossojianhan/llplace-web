@@ -1,0 +1,1 @@
+Alter table members ADD column photo_url text;
