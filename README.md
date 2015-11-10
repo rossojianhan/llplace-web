@@ -1,5 +1,2 @@
-# llplace-web
-
-A Sharing Economy App
-
-share your activities
+llplace web app
+angularjs web app
