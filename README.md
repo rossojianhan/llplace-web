@@ -1,5 +1,5 @@
 # llplace-web
 
-A Share economy app
+A Sharing Economy App
 
 share your activities
